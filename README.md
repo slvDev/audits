@@ -9,8 +9,14 @@
 ## Audits Overview
 
 ### 2023 Audits
-- **Code4rena - NextGen**: 1 High Severity Issue *(not public yet)*
 - **Participating in all c4 bot races**
+- **Code4rena - NextGen**: 1 High Severity Issue *(not public yet)*
+- **Code4rena - Frankencoin**: [QA Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/slvDev-Q.md) | [Gas Report](https://github.com/code-423n4/2023-04-frankencoin-findings/blob/main/data/slvDev-G.md)
+- **Code4rena - Asymmetry**: [QA Report](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/slvDev-Q.md)
+- **Code4rena - Canto Identity**: [QA Report](https://github.com/code-423n4/2023-03-canto-identity-findings/blob/main/data/slvDev-Q.md) | [Gas Report](https://github.com/code-423n4/2023-03-canto-identity-findings/blob/main/data/slvDev-G.md)
+- **Code4rena - Neo Tokyo**: [QA Report](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/slvDev-Q.md) | [Gas Report](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/slvDev-G.md)
+- **Code4rena - Wenwin**: [QA Report](https://github.com/code-423n4/2023-03-wenwin-findings/blob/main/data/slvDev-Q.md) | [Gas Report](https://github.com/code-423n4/2023-03-wenwin-findings/blob/main/data/slvDev-G.md)
+- **Code4rena - Astaria**: [QA Report](https://github.com/code-423n4/2023-01-astaria-findings/blob/main/data/slvDev-Q.md)
 - **Sherlock - Surge**: [1 Medium](https://github.com/sherlock-audit/2023-02-surge-judging/issues/256)
 
 ### 2022 Audits
