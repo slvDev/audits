@@ -13,6 +13,23 @@ Security researcher specializing in smart contract audits and formal verificatio
 
 ---
 
+## 📑 Formal Verification Reports
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Protocol</th>
+    <th>Report</th>
+  </tr>
+  <tr>
+    <td>Code4rena</td>
+    <td>Nudge.xyz</td>
+    <td><a href="./formal-verification/Nudge.xyz/nudge-report.md">Report</a></td>
+  </tr>
+</table>
+
+---
+
 ## 🔍 Formal Verification Contests
 
 <table>
@@ -44,9 +61,9 @@ Security researcher specializing in smart contract audits and formal verificatio
 
 ---
 
-## 📊 Audit History
+## 📊 Audits
 
-### 📆 2024 Audits
+### 📆 2024
 
 | Project             | Platform  | Findings                                                                                                                                                                                                             |
 | ------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,7 +88,7 @@ Security researcher specializing in smart contract audits and formal verificatio
 | reNFT               | Code4rena | [Gas Report](https://github.com/code-423n4/2024-01-renft-findings/blob/main/data/slvDev-G.md)                                                                                                                        |
 | Olas                | Code4rena | [QA Report](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/slvDev-Q.md)                                                                                                                     |
 
-### 📆 2023 Audits
+### 📆 2023
 
 ## 🏆 Code4rena Bot Races
 
@@ -98,7 +115,7 @@ Security researcher specializing in smart contract audits and formal verificatio
 | Astaria        | Code4rena | [QA Report](https://github.com/code-423n4/2023-01-astaria-findings/blob/main/data/slvDev-Q.md)                                                                                                                 |
 | Surge          | Sherlock  | [1 Medium](https://github.com/sherlock-audit/2023-02-surge-judging/issues/256)                                                                                                                                 |
 
-### 📆 2022 Audits
+### 📆 2022
 
 | Project | Platform  | Findings                                                                                                                                                                                                                                            |
 | ------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
